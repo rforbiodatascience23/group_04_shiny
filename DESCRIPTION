@@ -1,27 +1,7 @@
 Package: ShinyAppOne
 Title: PKG_TITLE
 Version: 0.0.0.9000
-Authors@R: c(person(given = "Katarzyna",
-           family = "Mucha",
-           role = "aut", 
-           email = "s222846@student.dtu.dk"), 
-    person(given = "Konrad",
-           family = "Uscilo",
-           role = "aut", 
-           email = "s222845@student.dtu.dk"),
-    person(given = "Laila",
-           family = "Laajab",
-           role = "aut", 
-           email = "s215023@student.dtu.dk"),
-     person(given = "Mathilde",
-           family = "Bechgaard",
-           role = c("aut", "cre"), # There must be a "cre", but there can only be one
-           email = "s194561@student.dtu.dk"),
-     person(given = "Ksenia",
-           family = "Kirdey",
-           role = "aut", 
-           email = "s231488@student.dtu.dk")      
-           )
+Authors@R: person('AUTHOR_FIRST', 'AUTHOR_LAST', email = 'AUTHOR@MAIL.COM', role = c('cre', 'aut'))
 Description: PKG_DESC.
 License: MIT + file LICENSE
 Imports: 
